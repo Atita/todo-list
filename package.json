@@ -1,0 +1,30 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "a simple to-do list in pure js",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atita/todo-list.git"
+  },
+  "keywords": [
+    "to",
+    "do",
+    "list",
+    "static",
+    "data"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atita/todo-list/issues"
+  },
+  "homepage": "https://github.com/Atita/todo-list#readme"
+}
